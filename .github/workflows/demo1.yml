@@ -10,7 +10,7 @@ on:
       - main
       - 'dev-*'
       - 'feat/**'
-    path-ignore:
+    paths-ignore:
       - '.github/workflows/*'
 
 
